@@ -1,0 +1,19 @@
+.for-everyone {
+    background-color: rgba(216, 29, 101, 0.418);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#number-2 {
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#number-4 {
+    background-color: rgba(0, 230, 0, 0.349);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.third {
+    font-size: 24px;
+}
